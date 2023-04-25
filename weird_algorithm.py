@@ -1,5 +1,4 @@
-n = input()
-n = int(n)
+n = int(input())
 
 print(n, end=' ')
 
